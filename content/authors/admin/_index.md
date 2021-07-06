@@ -41,4 +41,4 @@ highlight_name: false
 
 Yuwei Chuai is a postgraduate from School of Economics and Management of Beihang University. His research interests include social media, computational social science, fintech, and so forth. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
