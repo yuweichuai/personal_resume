@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Hobbies
 subtitle:
@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 
+  icon: google-scholar
+  icon_pack: ai
+  name: Academic
 - description: 
   icon: plane-departure
   icon_pack: fas
@@ -28,6 +32,10 @@ feature:
   icon: hiking
   icon_pack: fas
   name: Outdoor activities
+- description: 
+  icon: film
+  icon_pack: fas
+  name: Movie
 - description: 
   icon: camera-retro
   icon_pack: fas
