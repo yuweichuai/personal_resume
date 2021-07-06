@@ -1,7 +1,7 @@
 ---
 title: Yuwei Chuai
 role: Postgraduate in Beihang University
-avatar_filename: avatar.jpg
+avatar_filename: null
 bio: My research interests include social media, data science, computational
   social science.
 interests:
