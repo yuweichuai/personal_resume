@@ -29,7 +29,7 @@ publication_types: ["3"]
 publication: ArXiv
 publication_short: ArXiv
 
-abstract: Fake news that manipulates political elections, strikes financial systems, and even incites riots is more viral than real news online, resulting in unstable societies and buffeted democracy. The easier contagion of fake news online can be causally explained by the greater anger it carries. The same results in Twitter and Weibo indicate that this mechanism is independent of the platform. Moreover, mutations in emotions like increasing anger will progressively speed up the information spread. Specifically, increasing the occupation of anger by 0.1 and reducing that of joy by 0.1 will produce nearly 6 more retweets in the Weibo dataset. Offline questionnaires reveal that anger leads to more incentivized audiences in terms of anxiety management and information sharing and accordingly makes fake news more contagious than real news online. Cures such as tagging anger in social media could be implemented to slow or prevent the contagion of fake news at the source.Fake news that manipulates political elections, strikes financial systems, and even incites riots is more viral than real news online, resulting in unstable societies and buffeted democracy. The easier contagion of fake news online can be causally explained by the greater anger it carries. The same results in Twitter and Weibo indicate that this mechanism is independent of the platform. Moreover, mutations in emotions like increasing anger will progressively speed up the information spread. Specifically, increasing the occupation of anger by 0.1 and reducing that of joy by 0.1 will produce nearly 6 more retweets in the Weibo dataset. Offline questionnaires reveal that anger leads to more incentivized audiences in terms of anxiety management and information sharing and accordingly makes fake news more contagious than real news online. Cures such as tagging anger in social media could be implemented to slow or prevent the contagion of fake news at the source.
+abstract: Fake news that manipulates political elections, strikes financial systems, and even incites riots is more viral than real news online, resulting in unstable societies and buffeted democracy. The easier contagion of fake news online can be causally explained by the greater anger it carries. The same results in Twitter and Weibo indicate that this mechanism is independent of the platform. Moreover, mutations in emotions like increasing anger will progressively speed up the information spread. Specifically, increasing the occupation of anger by 0.1 and reducing that of joy by 0.1 will produce nearly 6 more retweets in the Weibo dataset. Offline questionnaires reveal that anger leads to more incentivized audiences in terms of anxiety management and information sharing and accordingly makes fake news more contagious than real news online. Cures such as tagging anger in social media could be implemented to slow or prevent the contagion of fake news at the source.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -40,9 +40,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: New Scientist
+  url: https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/
+- name: Communications of the ACM
+  url: https://cacm.acm.org/news/245394-fake-news-gets-shared-more-when-it-is-angry-anxiety-inducing/fulltext
 
 url_pdf: 'https://arxiv.org/abs/2004.10399'
 url_code: 'https://figshare.com/articles/dataset/Anger_makes_fake_news_viral_online/12163569/2'
@@ -55,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: ''
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
