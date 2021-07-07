@@ -1,5 +1,5 @@
 ---
-title: "Fake News Gets Shared More When It Is Angry and Anxiety-Inducing"
+title: "Fake News Gets Shared More When It is Angry, Anxiety-Inducing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ title: "Fake News Gets Shared More When It Is Angry and Anxiety-Inducing"
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-05-22T00:00:00Z"
+date: "2020-06-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +26,8 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: New Scientist
-publication_short: New Scientist
+publication: Communications of the ACM
+publication_short: Communications of the ACM
 
 # abstract: Fake news may go viral more quickly when it uses words associated with anger.
 
@@ -38,10 +38,10 @@ tags: []
 
 # Custom links (uncomment lines below)
 links:
-- name: New Scientist
-  url: https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/
-# - name: Communications of the ACM
-#   url: https://cacm.acm.org/news/245394-fake-news-gets-shared-more-when-it-is-angry-anxiety-inducing/fulltext
+# - name: New Scientist
+#   url: https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/
+- name: Communications of the ACM
+  url: https://cacm.acm.org/news/245394-fake-news-gets-shared-more-when-it-is-angry-anxiety-inducing/fulltext
 
 # url_pdf: 'https://arxiv.org/abs/2004.10399'
 # url_code: 'https://figshare.com/articles/dataset/Anger_makes_fake_news_viral_online/12163569/2'
@@ -55,7 +55,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Fake news spreads when it is angry (Atilgan Ozdil/Anadolu Agency/Get)'
+  caption: 'Credit: Geralt/Pixabay'
   focal_point: ""
   preview_only: false
 
