@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: Media Coverage
+    url: '#media'
+    weight: 55
   - name: Hobbies
     url: '#skills'
     weight: 60
