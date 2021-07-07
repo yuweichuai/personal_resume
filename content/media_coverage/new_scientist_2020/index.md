@@ -23,7 +23,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: New Scientist
@@ -37,9 +37,9 @@ abstract: Fake news may go viral more quickly when it uses words associated with
 tags: []
 
 # Custom links (uncomment lines below)
-# links:
-# - name: New Scientist
-#   url: https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/
+links:
+- name: New Scientist
+  url: https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/
 # - name: Communications of the ACM
 #   url: https://cacm.acm.org/news/245394-fake-news-gets-shared-more-when-it-is-angry-anxiety-inducing/fulltext
 
@@ -49,15 +49,15 @@ tags: []
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/'
+# url_source: 'https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: ''
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Fake news spreads when it is angry (Atilgan Ozdil/Anadolu Agency/Get)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
