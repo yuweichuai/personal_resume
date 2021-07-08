@@ -23,13 +23,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: Communications of the ACM
 publication_short: Communications of the ACM
 
-# abstract: Fake news may go viral more quickly when it uses words associated with anger.
+abstract: Researchers at the Beijing Advanced Innovation Center for Big Data and Brain Computing and Beihang University in China have found that fake news may go viral more quickly when it uses words associated with anger.
 
 # Summary. An optional shortened abstract.
 # summary: 

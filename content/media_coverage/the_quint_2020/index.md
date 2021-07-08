@@ -17,19 +17,19 @@ date: "2020-12-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: The Quint
 publication_short: The Quint
 
-# abstract: Fake news may go viral more quickly when it uses words associated with anger.
+abstract: Jichang Zhao from Beijing Advanced Innovation Center for Big Data and Brain Computing and Yuwei Chuai from Beihang University in China, after analysing both fake and real news on Chinese social media platform Weibo, found a correlation between anger and spread of fake news.
 
 # Summary. An optional shortened abstract.
 # summary: 
