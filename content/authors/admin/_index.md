@@ -3,13 +3,14 @@ title: Yuwei Chuai
 role: Postgraduate in Beihang University
 avatar_filename: null
 bio: My research interests include social media, data science, computational
-  social science.
+  social science, digital communication, and consumer behaviour.
 interests:
   - Social Media
   - Computational Social Science
   - Data Science
   - Fintech
-  - Investor Behaviour
+  - Digital Communication
+  - Consumer Behaviour
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +40,6 @@ superuser: true
 highlight_name: false
 ---
 
-Yuwei Chuai is a postgraduate from the School of Economics and Management of Beihang University in China. He is going to the [University of Luxembourg](https://wwwen.uni.lu/) to study some financial courses as an exchange student. His research interests include social media, computational social science, fintech, and so forth. His research has been featured in the popular media, including [New Scientist](https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/), [Communications of the ACM](https://cacm.acm.org/news/245394-fake-news-gets-shared-more-when-it-is-angry-anxiety-inducing/fulltext), and [The Quint](https://www.thequint.com/news/webqoof/mood-emotional-state-make-you-fall-for-online-misinformation). He is a member of "Youth Researchers Training Program" of [China Wealth Management 50 Forum(CWM50)](http://www.cwm50.cn/).
+Yuwei Chuai is a postgraduate from the School of Economics and Management of Beihang University in China. He is going to the [University of Luxembourg](https://wwwen.uni.lu/) to study some financial courses as an exchange student. His research interests include social media, data science, computational social science, digital communication, consumer behaviour, and so forth. His research has been featured in the popular media, including [New Scientist](https://www.newscientist.com/article/2242452-fake-news-gets-shared-more-when-it-is-angry-and-anxiety-inducing/), [Communications of the ACM](https://cacm.acm.org/news/245394-fake-news-gets-shared-more-when-it-is-angry-anxiety-inducing/fulltext), and [The Quint](https://www.thequint.com/news/webqoof/mood-emotional-state-make-you-fall-for-online-misinformation). He is also a member of "Youth Researchers Training Program" of [China Wealth Management 50 Forum (CWM50)](http://www.cwm50.cn/).
 
 {{< icon name="download" pack="fas" >}} Download Yuwei's {{< staticref "uploads/resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
