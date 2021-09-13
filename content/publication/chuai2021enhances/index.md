@@ -1,13 +1,12 @@
 ---
-title: "What Enhances the Spread of COVID-19 Content in Social Media?"
+title: "What Enhances the Spread of COVID-19 Content on Twitter?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yutian Chang
-- Xueqing Hou
+- Jichang Zhao
 
 # Author notes (optional)
 # author_notes:
@@ -27,10 +26,10 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: SSRN
-publication_short: SSRN
+# publication: SSRN
+# publication_short: SSRN
 
-abstract: COVID-19 content spreads wildly in social media, which produces significant effects both in assisting disaster management and causing social panic. What enhances the diffusion of disaster-related content during COVID-19 remains unexplored. Using 156,680 COVID-19 tweets posted on Twitter, we empirically examined the effects of the four key characteristics, namely emotions, topics, hashtags, and mentions. The empirical results show that most negative emotions have positive effects on retweeting. However, the positive effect of trust on retweeting is the strongest. Besides, the positive effects of the political topic and mentioning politicians indicate that people are sensitive to the politicization of disasters. The strongest anger intensity in the political topic also needs to be noticed. Our results complement perceptions of information diffusion during COVID-19 and provide insights for the government to understand the psychology and behavior of people during disasters.
+# abstract: COVID-19 content spreads wildly in social media, which produces significant effects both in assisting disaster management and causing social panic. What enhances the diffusion of disaster-related content during COVID-19 remains unexplored. Using 156,680 COVID-19 tweets posted on Twitter, we empirically examined the effects of the four key characteristics, namely emotions, topics, hashtags, and mentions. The empirical results show that most negative emotions have positive effects on retweeting. However, the positive effect of trust on retweeting is the strongest. Besides, the positive effects of the political topic and mentioning politicians indicate that people are sensitive to the politicization of disasters. The strongest anger intensity in the political topic also needs to be noticed. Our results complement perceptions of information diffusion during COVID-19 and provide insights for the government to understand the psychology and behavior of people during disasters.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -40,7 +39,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818344'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
